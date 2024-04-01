@@ -1,6 +1,8 @@
-Projeto com objetivo de simular uma loja online
-OQUE FOI UTILIZADO:
-JAVASCRIPT
-REACT
-HTML  E CSS
+Projeto com objetivo de simular uma loja online <br>
+OQUE FOI UTILIZADO:<br>
+JAVASCRIPT<br>
+REACT<br>
+HTML  E CSS<br>
+
+
 

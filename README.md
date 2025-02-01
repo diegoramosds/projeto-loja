@@ -1,4 +1,4 @@
-# Projeto loja
+# 🛒 Loja Online - Carrinho de Compras  
 
 https://github.com/diegoramosds/projeto-loja/assets/140274064/d23bf9d0-40a1-4235-93ac-69b443977abd
 
@@ -8,16 +8,17 @@ https://github.com/diegoramosds/projeto-loja/assets/140274064/d23bf9d0-40a1-4235
 - O objetivo deste projeto é simular uma loja online, permitindo aos usuários adicionar itens ao carrinho e calcular o valor total da compra.
 
 
-## 🚀 Tecnologias utilizadas: <br>
-  - Html <br>
-  - css <br>
-  - JavaScrip <br>
-  - React
+## 🚀 Tecnologias Utilizadas  
+- ✔️ **HTML, CSS, JavaScript** – Estrutura e estilização da aplicação  
+- ✔️ **React** – Construção da interface dinâmica  
+- ✔️ **Redux** – Gerenciamento de estado global  
 
 ## ✨ Destaques
-  - Layout responsivo adaptável a diferentes dispositivos<br>
-  - Efeito Parallax para um visual imersivo  <br>
-  - Código limpo e organizado, ideal para aprendizado e inspiração
+✅ **Carrinho Dinâmico** – Adicione, remova e ajuste itens em tempo real. <br> 
+✅ **Gerenciamento de Estado com Redux** – Controle eficiente do carrinho e do usuário. <br>
+✅ **Cálculo Automático** – Atualiza o valor total da compra instantaneamente.  <br>
+✅ **Interface Moderna** – Desenvolvida com **React** para melhor experiência.  <br>
+✅ **Autenticação Simples** – Suporte a login/logout com Redux
 
 
 
